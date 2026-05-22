@@ -24,5 +24,5 @@ J'utilise des **outils** comme :
 - Créer toute un système d'automatisation indépendante.
 - et connaitre le maximue de langages possible et d'essayer de tous les utiliser.
 ---
-Mes réseaux : 
+# Mes réseaux : 
 -  Discord : @gh05t4x3._
