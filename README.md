@@ -1,8 +1,7 @@
-# Salut, moi c'est Umut ou Umutdr01d
+# Salut, moi c'est Umut 
 
 ### A propos de moi
 Je suis étudiant en Informatique dans le côté de la programmation.
-Anecdotes : Umut veut dire **"espoir"** et **"dr01d"** parce que je suis un fanatique d'informatique.
 
 ---
 
