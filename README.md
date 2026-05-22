@@ -17,3 +17,6 @@ J'utilise des **outils** comme :
 - git
 - vscode
 - vim
+
+Mes réseaux : 
+- Discord : @gh05t4x3._
