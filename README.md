@@ -3,6 +3,8 @@
 ### A propos de moi
 Je suis étudiant en Informatique dans le côté de la programmation.
 
+Vous pouvez consulter mes dépots pour faire un tour de mes projets.
+
 ---
 
 J'aimerais connaitre des langages telles que :
