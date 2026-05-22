@@ -1,16 +1,19 @@
-## Hi there 👋
+# Salut, moi c'est Umut ou Umutdr01d
 
-<!--
-**Umutdr01d/Umutdr01d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A propos de moi
+Je suis étudiant en Informatique dans le côté de la programmation.
+Anecdotes : Umut veut dire **"espoir"** et **"dr01d"** parce que je suis un fanatique d'informatique.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'aimerais connaitre des langages telles que :
+- c/c++
+- JS
+- bash
+- Powershell
+- et pleins d'autres
+  
+
+J'utilise des **outils** comme : 
+- git
+- vscode
+- vim
