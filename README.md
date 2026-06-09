@@ -1,4 +1,4 @@
-<center><h1>Salut, moi c'est Umut</h1></center>
+<div style:"text-align:center"><h1>Salut, moi c'est Umut</h1></div>
 
 
 ### A propos de moi
