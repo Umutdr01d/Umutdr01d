@@ -1,3 +1,5 @@
+> <a id="fr">
+
 <div style:"text-align:center"><h1>Salut, moi c'est Umut</h1></div>
 
 
@@ -20,7 +22,7 @@ J'aimerais connaitre des langages telles que :
 J'utilise des **outils** comme : 
 - git
 - vscode
-- vim
+- vim/nvim
 ---
 # Mes objectifs :
 - Faire des projets personnels.
@@ -28,4 +30,4 @@ J'utilise des **outils** comme :
 - et connaitre le maximue de langages possible et d'essayer de tous les utiliser.
 ---
 # Mes réseaux : 
--  Discord : @gh05t4x3._
+-  Discord : @gh05t4x3._
