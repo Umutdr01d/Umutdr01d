@@ -1,7 +1,8 @@
 # Salut, moi c'est Umut 
 
+
 ### A propos de moi
-Je suis étudiant en Informatique dans le côté de la programmation.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&center=true&width=435&lines=Etudiant+;En+informatique)](https://git.io/typing-svg)
 
 Vous pouvez consulter mes dépots pour faire un tour de mes projets.
 
